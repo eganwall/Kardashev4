@@ -1,7 +1,7 @@
-##Overview
+## Overview
 This project (which I have been referring to as Kardashev IV) is currently in its infancy; most of the work I've done so far has to do with standing up some foundational systems and making architectural choices. This repository is intended to showcase the latest development build, and I'll post a changelog to this page as well. 
 
-##Future
+## Future
 The final vision of the game is still nebulous, but there are some key points that I've decided on. I'm planning to focus on developing and stabilizing these core features as I refine the overall aesthetic and gameplay vision. A few points I've mostly settled on:  
  - multiple progression vectors, ideally ensuring the feeling of a steadily-increasing power curve for the player
    - for example, gaining experience with a specific ship class may unlock more abilities, and accomplishing milestones with a specific ability may add more effects or unlock more configuration/loadout options
