@@ -77,7 +77,10 @@ The final vision of the game is still nebulous, but there are some key points to
    - item, ability, and mechanic descriptions should be complete and clear enough that the average player need not search for more information online
      - conversely, detailed information (scaling functions and ratios) should be available to players who want to min-max; possibly some configuration option to "show advanced details" or something  
 
+## Next Steps
+The next milestone I'm focused on is the design and implementation of a "rough draft" first ship class. For now, I'm going to say that the player is given up to 3 ability slots to fill from their currently-unlocked abilities, and the first ship's rough draft will include a handful of distinct abilities.  During the times I don't feel like working on this milestone, I'm researching and prototyping various AI concepts with the aim of designing a flexible enemy AI system which results in a satisfying, interesting combat experience for the player. 
 
+I'm interested to hear feedback, critiques, and ideas - big or small!
 
 
 
