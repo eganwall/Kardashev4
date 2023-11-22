@@ -27,7 +27,7 @@ In order to decouple major game systems, I've implemented a (currently barebones
 This system is, at least theoretically, flexible and extensible. As development scales up, I'm sure I'll have to revisit aspects of this architecture, but for now it suits my purposes. It currently handles messages for input events, entity destruction, ability usage, etc.
 
 ### Gameplay Ability System
-After doing some research regarding how to approach designing an ability and attribute framework, Logan pointed me towards Unreal Engine's GAS. Since this is a big enough project without having to learn an entirely new engine (which is also graphical overkill for my simple use-case), I resolved to implement a pared-down version of Unreal's GAS in Unity. Luckily, I quickly found that someone has already done the hard work for me :) (LINK_GITHUB_HERE)  
+After doing some research regarding how to approach designing an ability and attribute framework, Logan pointed me towards Unreal Engine's GAS. Since this is a big enough project without having to learn an entirely new engine (which is also graphical overkill for my 2d space bullshit), I resolved to implement a pared-down version of Unreal's GAS in Unity. Luckily, I quickly found that someone has already done the hard work for me :) (LINK_GITHUB_HERE)  
 
 I've found this data-oriented framework to be a more intuitive way to decompose gameplay abilities and effects, so I've forked this defunct repo and have been using and extending its code for my own purposes. A brief TL;DR without digging into its README/wiki:  
 - entities are associated with a set of Attributes, which are modified through GameplayEffects
