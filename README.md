@@ -4,6 +4,8 @@ This project (which I have been referring to as Kardashev IV) is currently in it
 # Current State
 There's not much to do in the present build; much of the work done so far is under the hood. 
 
+**2024.01.05 : lots of this README is outdated at this point; will update it in the near future to more accurately reflect current state and next steps**
+
 ## Controls
 
 - WASD - move
