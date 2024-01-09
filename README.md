@@ -12,10 +12,10 @@ There's not much to do in the present build; much of the work done so far is und
 - mouse - aim
 - space - dash in current movement direction
 - leftclick (hold) - fire weapon 
-- ~~rightclick - switch weapon~~
-- ~~Q - ability 1 (large projectile)~~
-- ~~E - ability 2 (temporary speed boost)~~
-- ~~R - small AoE dealing damage over time~~
+- Q - ability 1 
+- E - ability 2 
+- R - ability 3
+- Esc - Pause / Ability Select
 
 ## Components
 
