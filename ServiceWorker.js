@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-kardashev_proto-1.0";
 const contentToCache = [
-    "Build/20241107_web.loader.js",
-    "Build/20241107_web.framework.js.unityweb",
-    "Build/20241107_web.data.unityweb",
-    "Build/20241107_web.wasm.unityweb",
+    "Build/20241116_web.loader.js",
+    "Build/20241116_web.framework.js.unityweb",
+    "Build/20241116_web.data.unityweb",
+    "Build/20241116_web.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
